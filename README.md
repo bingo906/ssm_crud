@@ -13,4 +13,4 @@
 * 逆向工程 MyBatis Generator
 ## 总结图
 
-![image](http://github.com/bingo906/ssm_crud/src/main/webapp/static/images/summary.png)
+![image](https://raw.githubusercontent.com/bingo906/ssm_crud/master/src/main/webapp/static/images/summary.png)
